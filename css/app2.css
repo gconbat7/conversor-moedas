@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px;
+}
+
+.arrow{
+    width: 40px;
+    height: 40px;
+}
+
+/* ---REAL--- */
+.p-real{
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+
+.p-rs{
+    margin-right: 25px;
+    margin-left: -30px;
+}
+
+/* ---DOLAR--- */
+.img-dolar{
+    margin-left: 65px;
+}
+
+.p-dolar{
+    margin-bottom: 5px;
+    margin-left: 75px;
+}
+
+.p-us{
+    margin-right: 25px;
+    margin-left: 30px;
+}

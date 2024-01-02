@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+    background-color: aliceblue;
+}
+
+
+/* ---REAL img--- */
+.real{
+    position: absolute;
+    top: 10px;
+    left: 53px;
+
+}
+
+.p-real{
+    position: absolute;
+    top: 65px;
+    left: 65px;
+
+}
+
+.p-rs{
+    position: relative;
+    top: 85px;
+    left: 20px;
+
+}
+
+/* ---img .gif--- */
+.arrow{
+    position: absolute;
+    top: 18px;
+    left: 210px;
+}
+
+/* ---DOLAR img---- */
+.dolar{
+    position: absolute;
+    top: 10px;
+    left: 155px;
+
+}
+
+.p-dolar{
+    position: absolute;
+    top: 65px;
+    left: 160px;
+
+}
+
+.p-us{
+    position: relative;
+    top: 85px;
+    left: 118px;
+}
